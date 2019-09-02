@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/song-matchup/static/css/main.2cce8147.chunk.css",
+    "main.js": "/song-matchup/static/js/main.a7306e1d.chunk.js",
+    "main.js.map": "/song-matchup/static/js/main.a7306e1d.chunk.js.map",
+    "runtime~main.js": "/song-matchup/static/js/runtime~main.b10fd829.js",
+    "runtime~main.js.map": "/song-matchup/static/js/runtime~main.b10fd829.js.map",
+    "static/js/2.620b9bfc.chunk.js": "/song-matchup/static/js/2.620b9bfc.chunk.js",
+    "static/js/2.620b9bfc.chunk.js.map": "/song-matchup/static/js/2.620b9bfc.chunk.js.map",
+    "index.html": "/song-matchup/index.html",
+    "precache-manifest.1f1f856d4725b4f168ad1f6b67d9afd5.js": "/song-matchup/precache-manifest.1f1f856d4725b4f168ad1f6b67d9afd5.js",
+    "service-worker.js": "/song-matchup/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/song-matchup/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/song-matchup/static/media/logo.5d5d9eef.svg"
+  }
+}
